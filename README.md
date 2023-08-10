@@ -15,6 +15,8 @@ Este producto está dirigido a fans o posibles fans de Studio Ghibli que esten i
 
 Para entregar una experiencia grata, los colores y diseño del sitio se escogieron pensando en el usuario y en la temática. La paleta de colores e imágenes utilizadas se basaron en referencias extraidas desde sitios oficiales y de las películas.
 
+Para dirigirse a la paguina pinche [https://vanelopezr.github.io/DEV006-data-lovers/](aqui).
+
 ## Historias de usuario
 
 * HU1
